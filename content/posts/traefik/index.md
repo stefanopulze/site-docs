@@ -1,7 +1,6 @@
 ---
 title: "Traefik"
 date: 2022-06-14T15:53:55+02:00
-draft: true
 tags: [docker, traefik]
 slug: traefik
 summary: >-

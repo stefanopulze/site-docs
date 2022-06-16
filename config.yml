@@ -2,6 +2,7 @@ baseURL: "https://docs.stefanopulze.com/"
 languageCode: "en-US"
 title: 'Stefano Pulze'
 theme: 'journal-22'
+googleAnalytics: 'G-GZEH8CJ8G0'
 
 markup:
   highlight:

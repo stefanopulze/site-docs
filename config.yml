@@ -10,3 +10,11 @@ markup:
     style: monokai
     lineNos: false
     noClasses: false
+
+enableRobotsTXT: true
+disableKinds:
+  - taxonomy
+  - term
+  - categories
+  - rss
+  - sitemap

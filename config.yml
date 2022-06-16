@@ -1,0 +1,13 @@
+baseURL: "https://docs.stefanopulze.com/"
+languageCode: "it-IT"
+title: 'Stefano Pulze'
+theme: 'journal-22'
+defaultContentLanguage: 'it'
+
+markup:
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    style: monokai
+    lineNos: false
+    noClasses: false

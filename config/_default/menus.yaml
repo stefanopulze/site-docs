@@ -1,0 +1,4 @@
+main:
+  - identifier: "journal"
+    name: "Journal"
+    url: "/"

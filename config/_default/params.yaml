@@ -1,0 +1,25 @@
+meta:
+  author: "Stefano Pulze"
+  description: >-
+    In qualità di web developer sviluppo tramite PHP, MySQL, Javascript, AJAX, HTML e CSS mentre nel tempo libero 
+    mi dedico al web design e arduino
+  keywords: "stefano pulze, web design, java, kotlin, docker, vue, blockchain, wordpress, padova, rovigo, freelance"
+
+socials:
+  - name: Github
+    link: "https://github.com/stefanopulze"
+    kind: menu
+  - name: Youtube
+    link: "https://www.youtube.com/channel/UCKE3lreedL-ML6kmEq4JaFw"
+  - name: Linkedin
+    link: "https://www.linkedin.com/in/stefanopulze/it"
+    kind: menu
+  - name: Twitter
+    link: "https://twitter.com/stefanopulze"
+
+
+parentURL: "https://stefanopulze.com"
+parentTitle: "Stefano Pulze"
+
+post:
+  author: "Stefano Pulze"

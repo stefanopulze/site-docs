@@ -1,0 +1,3 @@
+[submodule "themes/journal-22"]
+	path = themes/journal-22
+	url = https://github.com/stefanopulze/journal-22.git

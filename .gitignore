@@ -7,5 +7,7 @@ hugo.darwin
 hugo.linux
 /.hugo_build.lock
 .idea
+/themes
 
 .DS_Store
+.vscode

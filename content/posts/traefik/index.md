@@ -1,7 +1,7 @@
 ---
 title: "Traefik"
 date: 2022-06-14T15:53:55+02:00
-tags: [docker, traefik]
+tags: [docker, traefik, homelab]
 slug: traefik
 summary: >-
     How to configure next gen reverse-proxy traefik

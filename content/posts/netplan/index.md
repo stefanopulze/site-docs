@@ -1,7 +1,7 @@
 ---
 title: "Netplan"
 date: 2022-07-14T16:50:15+02:00
-tags: [ubuntu, network]
+tags: [ubuntu, network, homelab]
 summary: >-
     How to configure dhcp or static ip on ubuntu with netplan
 ---

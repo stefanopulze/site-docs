@@ -26,7 +26,7 @@ jobs:
         run: |
           pwd
           ls
-          ls themes/journal-22
+          ls themes/journal-22/static/icons
 
       - name: Hugo
         uses: peaceiris/actions-hugo@v2

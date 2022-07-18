@@ -21,6 +21,12 @@ jobs:
           git submodule init
           git submodule update
 
+      - name: Test
+        shell: bash
+        run: |
+          pwd
+          ls
+
       - name: Hugo
         uses: peaceiris/actions-hugo@v2
         with:

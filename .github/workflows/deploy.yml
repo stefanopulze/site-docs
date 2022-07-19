@@ -27,7 +27,7 @@ jobs:
           ls themes/journal-22/static/icons
 
       - name: Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v2.5.0
         with:
           hugo-version: 'latest'
           extended: true
